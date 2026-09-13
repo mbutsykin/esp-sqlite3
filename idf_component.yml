@@ -1,0 +1,7 @@
+version: "3.53.4~1"
+description: "SQLite 3.53.4 amalgamation for ESP-IDF, with a POSIX VFS that keeps fsync"
+url: "https://github.com/mbutsykin/esp-sqlite3"
+license: "blessing"
+dependencies:
+  idf:
+    version: ">=5.0"

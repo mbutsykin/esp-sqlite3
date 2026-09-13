@@ -1,0 +1,7 @@
+SQLite (the amalgamation fetched at build time) is in the public domain; see
+https://sqlite.org/copyright.html. vfs.c is adapted from SQLite's
+test_demovfs.c, also public domain.
+
+The remaining files in this repository are released under the same terms:
+anyone is free to copy, modify, publish, use, compile, sell, or distribute
+them, for any purpose, commercial or non-commercial, and by any means.
